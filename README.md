@@ -13,7 +13,7 @@ Here i have clone the [paytm.com](https://www.shopify.in/) home page using HTML 
 ## Screen shorts of this Project
 
 ### Web view
-![Web view](/screenshots/web-view.jpeg)
+![Web view](/screenshots/Web-view.jpeg)
 
 ### Mobile View
 ![Mobile view](/screenshots/mobile-view.jpeg)
