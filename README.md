@@ -1,4 +1,4 @@
-# Project 17 Shopify Clone
+# Shopify Clone
 
 ## Santanu Kumar Sahu
 
